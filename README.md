@@ -20,4 +20,4 @@ probes => verificação de saude de forma geral.
 
 startupProbe => ao subir o pod ele faz a validação
 readinessProbe => durante a execução ele faz a validação, se o serviço está ok para receber request
-livenessProbe => durante a execução ele faz a validação, se serviço não estiver OK ele restarta
+livenessProbe => durante a execução ele faz a validação, se serviço não estiver OK ele restarta.
